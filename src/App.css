@@ -19,7 +19,7 @@ nav a {
   margin: 1rem;
   border-radius: 15px;
   width: 300px; /* Fixed width */
-  height: 200px; /* Fixed height */
+  height: 250px; /* Fixed height */
   overflow-wrap: break-word; /* Break long words to prevent overflow */
   white-space: normal; /* Allow text to wrap normally */
 }
